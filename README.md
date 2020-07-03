@@ -1,0 +1,2 @@
+# python-assignments
+Intellipaat assignments
